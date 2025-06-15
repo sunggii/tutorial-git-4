@@ -30,3 +30,9 @@ ref: [doc พี่ไมค์](https://docs.mikelopster.dev/c/basic/git/intro)
 # How to pull request
 * ตอนทำงานจริงให้ทำแบบนี้แทนการ merge branch ตัวเอง เข้า main มั่วซั่ว
 * pull request เกิดจากการอัพงานจาก branch ตัวเอง ขึ้น github
+
+1. กด compare
+![alt text](./img/image-1.png)
+
+2. ดูครงนี้ให้ดี
+![alt text](./img/image-2.png)
