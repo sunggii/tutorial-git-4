@@ -26,3 +26,7 @@ ref: [doc พี่ไมค์](https://docs.mikelopster.dev/c/basic/git/intro)
 * ```git pull <ตัวแปร> <branchที่จะ pull>``` **ตัวอย่าง** ```git pull origin main```
     * ให้ดึงอัพเดทล่าสุดของ server เข้า file
 * ```git fetch origin``` ใช้ดึงทุก branch เข้ามา
+
+# How to pull request
+* ตอนทำงานจริงให้ทำแบบนี้แทนการ merge branch ตัวเอง เข้า main มั่วซั่ว
+* pull request เกิดจากการอัพงานจาก branch ตัวเอง ขึ้น github
