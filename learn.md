@@ -22,4 +22,7 @@ ref: [doc พี่ไมค์](https://docs.mikelopster.dev/c/basic/git/intro)
 
 ## Git server และคำสั่ง remote
 * หลังจาก cop remote ให้ใช้ ```git push --all  origin``` เพื่ออัพทุก branch ขึ้น github
-* ```git push <ตัวแปร> <branch>``` **ตัวอย่าง** ```git push origin main```
+* ```git push <ตัวแปร> <branch ที่จะ push>``` **ตัวอย่าง** ```git push origin main```
+* ```git pull <ตัวแปร> <branchที่จะ pull>``` **ตัวอย่าง** ```git pull origin main```
+    * ให้ดึงอัพเดทล่าสุดของ server เข้า file
+* ```git fetch origin``` ใช้ดึงทุก branch เข้ามา
