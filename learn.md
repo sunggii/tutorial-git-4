@@ -7,7 +7,7 @@ ref: [doc พี่ไมค์](https://docs.mikelopster.dev/c/basic/git/intro)
     1.  ```Ctrl + shift + p```
     2. เลือก
 
-    ![alt text](image.png)
+    ![alt text](./img/git-graph.png)
 
 ## คำสั่งพื้นฐาน
 * ```git init```
